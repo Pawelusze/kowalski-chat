@@ -1,0 +1,5 @@
+name: Kowalski-Chat
+version: '1.0-INDEV'
+main: pl.kowalski.chat.ChatPlugin
+api-version: '1.21'
+authors: [ Lambda ]

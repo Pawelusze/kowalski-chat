@@ -1,0 +1,11 @@
+/Users/pawelmalanich/Downloads/Kowalski-Chat/src/main/java/pl/kowalski/chat/ChatCommand.java
+/Users/pawelmalanich/Downloads/Kowalski-Chat/src/main/java/pl/kowalski/chat/ChatPlugin.java
+/Users/pawelmalanich/Downloads/Kowalski-Chat/src/main/java/pl/kowalski/chat/ChatService.java
+/Users/pawelmalanich/Downloads/Kowalski-Chat/src/main/java/pl/kowalski/chat/ChatStatus.java
+/Users/pawelmalanich/Downloads/Kowalski-Chat/src/main/java/pl/kowalski/chat/configuration/ConfigService.java
+/Users/pawelmalanich/Downloads/Kowalski-Chat/src/main/java/pl/kowalski/chat/configuration/CustomSnakeYamlRepresenter.java
+/Users/pawelmalanich/Downloads/Kowalski-Chat/src/main/java/pl/kowalski/chat/configuration/MessageConfiguration.java
+/Users/pawelmalanich/Downloads/Kowalski-Chat/src/main/java/pl/kowalski/chat/configuration/PluginConfiguration.java
+/Users/pawelmalanich/Downloads/Kowalski-Chat/src/main/java/pl/kowalski/chat/controller/ChatController.java
+/Users/pawelmalanich/Downloads/Kowalski-Chat/src/main/java/pl/kowalski/chat/multification/ChatMultification.java
+/Users/pawelmalanich/Downloads/Kowalski-Chat/src/main/java/pl/kowalski/chat/util/DurationUtil.java

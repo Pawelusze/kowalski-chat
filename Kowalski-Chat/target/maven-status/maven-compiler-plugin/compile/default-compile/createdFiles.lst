@@ -1,0 +1,16 @@
+pl/kowalski/chat/util/DurationUtil.class
+pl/kowalski/chat/configuration/MessageConfiguration.class
+pl/kowalski/chat/configuration/CustomSnakeYamlRepresenter$RepresentBoolean.class
+pl/kowalski/chat/ChatCommand.class
+pl/kowalski/chat/configuration/CustomSnakeYamlRepresenter$RepresentList.class
+pl/kowalski/chat/configuration/ConfigService.class
+pl/kowalski/chat/controller/ChatController.class
+pl/kowalski/chat/configuration/CustomSnakeYamlRepresenter$RepresentString.class
+pl/kowalski/chat/configuration/CustomSnakeYamlRepresenter$RepresentMap.class
+pl/kowalski/chat/multification/ChatMultification.class
+pl/kowalski/chat/ChatPlugin.class
+pl/kowalski/chat/ChatService.class
+pl/kowalski/chat/configuration/PluginConfiguration.class
+pl/kowalski/chat/ChatStatus.class
+pl/kowalski/chat/configuration/CustomSnakeYamlRepresenter.class
+pl/kowalski/chat/configuration/CustomSnakeYamlRepresenter$RepresentInteger.class
